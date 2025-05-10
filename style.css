@@ -1,0 +1,123 @@
+h1{
+   text-align: center; 
+}
+h2{
+    text-align: center;
+}
+.book1{
+    width: 200px;
+    height: 300px;
+}
+.book2{
+    width: 200px;
+    height: 300px;
+}
+.book3{
+    width: 200px;
+    height: 300px;
+}
+.book4{
+    width: 200px;
+    height: 300px;
+}
+.book5{
+    width: 200px;
+    height: 300px;
+}
+.book6{
+    width: 200px;
+    height: 300px;
+}
+.book7{
+    width: 200px;
+    height: 300px;
+}
+.book8{
+    width: 200px;
+    height: 300px;
+}
+.book9{
+    width: 200px;
+    height: 300px;
+}
+.book10{
+    width: 200px;
+    height: 200px;
+}
+.book11{
+    width: 200px;
+    height: 300px;
+}
+.book12{
+    width: 200px;
+    height: 300px;
+}
+.book13{
+    width: 200px;
+    height: 300px;
+}
+.book14{
+    width: 200px;
+    height: 300px;
+}
+.book15{
+    width: 200px;
+    height: 300px;
+}
+.book16{
+    width: 200px;
+    height: 300px;
+}
+.book17{
+    width: 200px;
+    height: 300px;
+}
+.book18{
+    width: 200px;
+    height: 300px;
+}
+.book19{
+    width: 200px;
+    height: 300px;
+}
+.book20{
+    width: 200px;
+    height: 300px;
+}
+
+section{
+    display:flex;
+    width: 700px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: purple;
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+nav{
+    text-align: center;
+}
+header{
+    color: mediumpurple;
+}
+main{
+    text-align: center;
+    color: blueviolet;
+}
+.logo1{
+    width: 100px;
+    height: 100px;
+}
+.logo2{
+    width: 125px;
+    height: 100px;
+}
+.logo3{
+    width: 100px;
+    height: 100px;
+}
